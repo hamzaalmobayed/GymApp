@@ -1,0 +1,42 @@
+Map<String,Map<String,List<String>>> training ={
+"images/arm.jpg":{
+  "Easy":["images/arm1.gif","images/arm2.gif","images/arm3.gif","images/arm4.gif","images/arm5.gif",],
+  "Intermediate":["images/arm6.gif","images/arm7.gif","images/arm8.gif","images/arm9.gif","images/arm10.gif",],
+  "Hard":["images/arm11.gif","images/arm12.gif","images/arm13.gif","images/arm14.gif","images/arm15.gif",]
+},
+"images/leg.png":{
+  "Easy":["images/leg1.gif","images/leg2.gif","images/leg3.gif","images/leg4.gif","images/leg5.gif"],
+  "Intermediate":["images/leg6.gif","images/leg7.gif","images/leg8.gif","images/leg9.gif","images/leg10.gif"],
+  "Hard":["images/leg11.gif","images/leg12.gif","images/leg13.gif","images/leg14.gif","images/leg15.gif"]
+},
+"images/abs.jpg":{
+  "Easy":["images/abs1.gif","images/abs2.gif","images/abs3.gif","images/abs4.gif","images/abs5.gif",],
+  "Intermediate":["images/abs6.gif","images/abs7.gif","images/abs8.gif","images/abs9.gif","images/abs10.gif",],
+  "Hard":["images/abs11.gif","images/abs12.gif","images/abs13.gif","images/abs14.gif","images/abs15.gif",]
+},
+"images/shoulder.jpg":{
+  "Easy":["images/shol1.gif","images/shol2.gif","images/shol3.gif","images/shol4.gif","images/shol5.gif",],
+  "Intermediate":["images/shol6.gif","images/shol7.gif","images/shol8.gif","images/shol9.gif","images/shol10.gif",],
+  "Hard":["images/shol11.gif","images/shol12.gif","images/shol13.gif","images/shol14.gif","images/shol15.gif",]
+},
+"images/back.jpg":{
+  "Easy":["images/back1.gif","images/back2.gif","images/back3.gif","images/back4.gif","images/back5.gif",],
+  "Intermediate":["images/back6.gif","images/back7.gif","images/back8.gif","images/back9.gif","images/back10.gif",],
+  "Hard":["images/back11.gif","images/back12.gif","images/back13.gif","images/back14.gif","images/back15.gif",]
+},
+"images/chest.jpg":{
+  "Easy":["images/chest1.gif","images/chest2.gif","images/chest3.gif","images/chest4.gif","images/chest.gif",],
+  "Intermediate":["images/chest6.gif","images/chest7.gif","images/chest8.gif","images/chest9.gif","images/chest10.gif",],
+  "Hard":["images/chest11.gif","images/chest12.gif","images/chest13.gif","images/chest14.gif","images/chest15.gif",]
+},
+"images/biceps.jpg":{
+  "Easy":["images/bi1.gif","images/bi2.gif","images/bi3.gif","images/bi4.gif","images/bi5.gif",],
+  "Intermediate":["images/bi6.gif","images/bi7.gif","images/bi8.gif","images/bi9.gif","images/bi10.gif",],
+  "Hard":["images/bi11.gif","images/bi12.gif","images/bi13.gif","images/bi14.gif","images/bi15.gif",]
+},
+"images/triceps.png":{
+  "Easy":["images/tri1.gif","images/tri2.gif","images/tri3.gif","images/tri4.gif","images/tri5.gif",],
+  "Intermediate":["images/tri6.gif","images/tri7.gif","images/tri8.gif","images/tri9.gif","images/tri10.gif",],
+  "Hard":["images/tri11.gif","images/tri12.gif","images/tri13.gif","images/tri14.gif","images/tri15.gif",]
+},
+};
